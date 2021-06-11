@@ -1,5 +1,5 @@
 # This is the offical repository of the paper: [CNN Based Non Contact Detection of Food Level in Bottles from RGB Images](https://par.nsf.gov/servlets/purl/10094310) 
-Authors: Yijun Jiang, Elim Schenck, Spencer Kranz, Sean Banerjee, and Natasha Kholgade Banerjee
+Authors: Yijun Jiang, Elim Schenck, Spencer Kranz, [Sean Banerjee](https://tars.clarkson.edu/sean), and [Natasha Kholgade Banerjee](https://tars.clarkson.edu/natasha)
 
 ---
 <img width="900" alt="level_detection_architecture" src="https://user-images.githubusercontent.com/46984040/121624237-2b1cf300-ca3f-11eb-9c7a-597dd7dcf35f.png">
