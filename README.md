@@ -1,0 +1,1 @@
+# CNN-Based-Non-Contact-Detection-of-Food-Level-in-Bottles-from-RGB-Images
